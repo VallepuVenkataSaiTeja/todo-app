@@ -1,0 +1,13 @@
+.mainWrapper {
+    padding: 50px;
+}
+
+.headerStyles {
+    color: rgb(52, 84, 243);
+}
+
+.todoListWrapper {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(4, 1fr);
+}
